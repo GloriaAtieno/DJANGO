@@ -4,24 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="801f4d54-277d-49b2-ad8d-862779b60c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/djangoProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/master.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/services.html" afterDir="false" />
+    <list default="true" id="801f4d54-277d-49b2-ad8d-862779b60c30" name="Changes" comment="Django project">
+      <change afterPath="$PROJECT_DIR$/main_app/static/css/mystyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_app/static/images/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_app/static/images/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_app/static/images/whatsapp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject1/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/master.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/master.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +22,25 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GloriaAtieno"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GloriaAtieno/DJANGO.git",
+    "accountId": "68c26818-e216-4703-851f-2db91fa84ad7"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -56,7 +59,9 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Glowreea Artyenow/PycharmProjects/djangoProject1/main_app/static/images",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,6 +70,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Glowreea Artyenow\PycharmProjects\djangoProject1\main_app\static\images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="djangoProject1" type="Python.DjangoServer" factoryName="Django server">
       <module name="djangoProject1" />
@@ -108,11 +118,104 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730870344126</updated>
-      <workItem from="1730870352550" duration="8057000" />
+      <workItem from="1730870352550" duration="14666000" />
     </task>
+    <task id="LOCAL-00001" summary="Django project">
+      <option name="closed" value="true" />
+      <created>1730878504524</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730878504524</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Django project">
+      <option name="closed" value="true" />
+      <created>1730878516138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730878516138</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Django project">
+      <option name="closed" value="true" />
+      <created>1730878525547</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730878525547</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Django project">
+      <option name="closed" value="true" />
+      <created>1730878535287</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730878535287</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Django project">
+      <option name="closed" value="true" />
+      <created>1730878544411</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730878544411</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Django project">
+      <option name="closed" value="true" />
+      <created>1730878552548</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730878552548</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Django project">
+      <option name="closed" value="true" />
+      <created>1730878560749</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730878560749</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Django project">
+      <option name="closed" value="true" />
+      <created>1730878570860</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730878570860</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Django project">
+      <option name="closed" value="true" />
+      <created>1730878578862</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730878578862</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Django project">
+      <option name="closed" value="true" />
+      <created>1730878592898</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730878592898</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Django project">
+      <option name="closed" value="true" />
+      <created>1730878601557</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730878601557</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Django project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Django project" />
   </component>
 </project>
