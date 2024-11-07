@@ -119,6 +119,10 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
+STATIC_ROOT = BASE_DIR / 'static_files' # main directory - created automatically
+
+STATICFILES_DIRS = [BASE_DIR / 'main_app/static'] # each app in the project
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
